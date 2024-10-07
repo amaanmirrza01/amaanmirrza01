@@ -1,6 +1,6 @@
-Welcome to My Profile! Innovative Full-Stack Developer with 6 Years of Expertise in Web Technologies.
+Welcome to My Profile! Innovative Full-Stack Developer with 5 Years of Expertise in Web Technologies.
 
-Hi there! I'm Amaan Mirza, a full-stack developer with over 6 years of experience in the exciting realm of web development. I love turning ideas into awesome digital experiences and enjoy keeping up with the latest in tech trends. Let's build something amazing together!.
+Hi there! I'm Amaan Mirza, a full-stack developer with over 5 years of experience in the exciting realm of web development. I love turning ideas into awesome digital experiences and enjoy keeping up with the latest in tech trends. Let's build something amazing together!.
 
 My Skill Set:
 
